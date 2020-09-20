@@ -12,8 +12,8 @@ function App() {
       </header>
        
       <h2> PIAIC Boot Camp 2020 - Class 03 - Demo React App</h2>
-      <h3> Github Repo:  </h3>
-      <h3> Surge URL  :</h3>    
+      <h3> Github Repo: https://github.com/Mjavaidnawab/bc20k-class3-demo-app  </h3>
+      <h3> Surge URL  : http://bc20k-class3-demo-app.surge.sh/</h3>    
 
       <Dinner dishName = "Chicken Nihari" sweetDish="Kheer"/> 
       <hr/>
